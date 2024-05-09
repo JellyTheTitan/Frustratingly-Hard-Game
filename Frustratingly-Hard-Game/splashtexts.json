@@ -1,0 +1,506 @@
+[
+  {
+    "texts": [
+      "ure mom",
+      "is gae",
+      "lol"
+    ],
+    "delays": [
+      2,
+      1.2,
+      0.5
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "don't play this game",
+      "if you have anger issues"
+    ],
+    "delays": [
+      2.2,
+      1.7
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "this was made",
+      "by a nerd"
+    ],
+    "delays": 2,
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "go follow",
+      "@JellyTheTitan",
+      "on Scratch and Replit"
+    ],
+    "delays": [
+      1.5,
+      1.6,
+      1.7
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [
+        [255, 255, 255],
+        [75, 0, 130],
+        [255, 255, 255]
+      ],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "yummy ak-47 gg",
+      "wait what"
+    ],
+    "delays": [
+      2.5,
+      0.5
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "the pen is blue",
+      "THE PEN IS BLUE",
+      "THE GODDAMN PEN IS BLUE"
+    ],
+    "delays": [
+      2,
+      2,
+      2.5
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [0, 0, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "idk what to put here",
+      "(i'm so stupid lol)"
+    ],
+    "delays": [
+      2,
+      1
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "made by",
+      "@JellyTheTitan"
+    ],
+    "delays": 1.5,
+    "text-data": {
+      "spacing": 30,
+      "color": [
+        [255, 255, 255],
+        [75,0,130]
+      ],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "you're a hawk",
+      "if you can read this"
+    ],
+    "delays": [
+      1.7,
+      2
+    ],
+    "text-data": {
+      "spacing": 10,
+      "color": [255, 255, 255],
+      "size": 10
+    }
+  },
+  {
+    "texts": [
+      "CAN YOU READ THIS?",
+      "DO YOU NOT NEED",
+      "YOUR GLASSES?",
+      "YOU'RE WELCOME"
+    ],
+    "delays": [
+      2,
+      0,
+      2,
+      1.6
+    ],
+    "text-data": {
+      "spacing": 50,
+      "color": [255, 255, 255],
+      "size": 50
+    }
+  },
+  {
+    "texts": [
+      "i'm so angry right now",
+      "grrr",
+      "*viciously barks*"
+    ],
+    "delays": [
+      2,
+      1,
+      0.5
+    ],
+    "text-data": {
+      "spacing": 40,
+      "color": [255, 0, 0],
+      "size": 40
+    }
+  },
+  {
+    "texts": [
+      "rip",
+      "piggy_g",
+      "we miss you",
+      "on gritty",
+      "amen B)"
+    ],
+    "delays": [
+      1.5,
+      1.5,
+      1.3,
+      1,
+      0.7
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 105, 180],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "if you had a bad day",
+      "then don't play this game"
+    ],
+    "delays": [
+      2,
+      1.5
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "@MhoobWkhWlwdq"
+    ],
+    "delays": 5,
+    "text-data": {
+      "spacing": 30,
+      "color": [75, 0, 130],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "google feud",
+      "such a funny game"
+    ],
+    "delays": [
+      2,
+      1.5
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "the ratio of",
+      "people to cake",
+      "is too big"
+    ],
+    "delays": [
+      0,
+      0,
+      4
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "uuuhh, yeah",
+      "cuz it has electrolytes"
+    ],
+    "delays": 2,
+    "text-data": {
+      "spacing": 30,
+      "color": [0, 255, 0],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "DAMNIT",
+      "BOBBY"
+    ],
+    "delays": [
+      0,
+      3
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "adventure time",
+      "is the goat"
+    ],
+    "delays": 1.5,
+    "text-data": {
+      "spacing": 40,
+      "color": [0, 255, 255],
+      "size": 40
+    }
+  },
+  {
+    "texts": [
+      "WARNING",
+      "very easy.",
+      "jk"
+    ],
+    "delays": [
+      2,
+      1.5,
+      0.5
+    ],
+    "text-data": {
+      "spacing": [
+        30,
+        30,
+        20
+      ],
+      "color": [255, 0, 0],
+      "size": [
+        30,
+        30,
+        20
+      ]
+    }
+  },
+  {
+    "texts": [
+      "The best wrestler",
+      "Mlondani",
+      "He is a W"
+    ],
+    "delays": 1.5,
+    "text-data": {
+      "spacing": 40,
+      "color": [255, 0, 0],
+      "size": 40
+    }
+  },
+  {
+    "texts": [
+      "inspired by",
+      "World's Hardest Game"
+    ],
+    "delays": 2,
+    "text-data": {
+      "spacing": 30,
+      "color": [
+        [255, 255, 255],
+        [0, 124, 230]
+      ],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "i stole this dudes account",
+      "i'm deleting the code",
+      "wait he's coming back",
+      "OH SH*T"
+    ],
+    "delays": [
+      2,
+      2,
+      1.3,
+      0.5
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [
+        [255, 255, 255],
+        [255, 255, 255],
+        [255, 255, 255],
+        [238, 75, 43]
+      ],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "what",
+      "in the",
+      "cinnamon toast f*ck",
+      "is this?!?"
+    ],
+    "delays": [
+      1.5,
+      1.5,
+      2,
+      1.5
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [75, 0, 130],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "everything",
+      "in here",
+      "is edible",
+      "even I'M edible",
+      "but that is called",
+      "cannibalism",
+      "my dear children",
+      "and it is quite frowned upon",
+      "in most societies"
+    ],
+    "delays": [
+      1.2,
+      1.1,
+      1.1,
+      1.7,
+      1.3,
+      1.2,
+      1.4,
+      1.6,
+      1.5
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [139, 69, 19],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "it sounds like:",
+      "pray tell my friend...",
+      "why are u playing this game?"
+    ],
+    "delays": [
+      1.7,
+      1.9,
+      2
+    ],
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 255, 255],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "just shot up a fellow",
+      "and took his boots",
+      "I customise my rifle",
+      "like it's 1862"
+    ],
+    "delays": 1.5,
+    "text-data": {
+      "spacing": 30,
+      "color": [
+        [255, 0, 0],
+        [255, 255, 255],
+        [0, 0, 255],
+        [255, 0, 0]
+      ],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "if you fw centipedes",
+      "i don't fwy"
+    ],
+    "delays": 2,
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 165, 0],
+      "size": 30
+    }
+  },
+  {
+    "texts": [
+      "https://www.youtube.com/watch?v=astISOttCQ0"
+    ],
+    "delays": 8,
+    "text-data": {
+      "spacing": 25,
+      "color": [255, 0, 0],
+      "size": 25
+    }
+  },
+  {
+    "texts": [
+      "https://scratch.mit.edu/users/JellyTheTitan/"
+    ],
+    "delays": 8,
+    "text-data": {
+      "spacing": 25,
+      "color": [255, 165, 0],
+      "size": 25
+    }
+  },
+  {
+    "texts": [
+      "Best tosser",
+      "Mo",
+      "He will yeet you ;)"
+    ],
+    "delays": 2,
+    "text-data": {
+      "spacing": 30,
+      "color": [255, 105, 180],
+      "size": 30
+    }
+  }
+]

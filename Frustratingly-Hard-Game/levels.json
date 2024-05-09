@@ -1,0 +1,364 @@
+[
+  {
+    "player": {
+      "start-x": -300,
+      "start-y": -5
+    },
+    "portal": {
+      "start-x": 260,
+      "start-y": -5
+    },
+    "projectiles": [
+      {
+        "data": {
+          "size": 32,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 100,
+          "start-x": -30,
+          "start-y": 5,
+          "start-dir": "left"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 32,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 100,
+          "start-x": -115,
+          "start-y": 65,
+          "start-dir": "right"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 32,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 100,
+          "start-x": -115,
+          "start-y": -65,
+          "start-dir": "right"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 100,
+          "start-x": 155,
+          "start-y": 10,
+          "start-dir": "up"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 100,
+          "start-x": 155,
+          "start-y": 10,
+          "start-dir": "down"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 100,
+          "start-x": 90,
+          "start-y": 10,
+          "start-dir": "up"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 100,
+          "start-x": 90,
+          "start-y": 10,
+          "start-dir": "down"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 100,
+          "start-x": 25,
+          "start-y": 10,
+          "start-dir": "up"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 100,
+          "start-x": 25,
+          "start-y": 10,
+          "start-dir": "down"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      }
+    ],
+    "walls": [
+      {
+        "x": -320,
+        "y": 240,
+        "width": 640,
+        "height": 145,
+        "color": [1, 50, 32],
+        "inner-square-shade": 30
+      },
+      {
+        "x": -320,
+        "y": -95,
+        "width": 640,
+        "height": 145,
+        "color": [1, 50, 32],
+        "inner-square-shade": 30
+      }
+    ]
+  },
+  {
+    "player": {
+      "start-x": -15,
+      "start-y": 15
+    },
+    "portal": {
+      "start-x": -20,
+      "start-y": 220
+    },
+    "projectiles": [
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 60,
+          "start-x": -315,
+          "start-y": 80,
+          "start-dir": "right"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 60,
+          "start-x": -255,
+          "start-y": 150,
+          "start-dir": "left"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 60,
+          "start-x": -140,
+          "start-y": 15,
+          "start-dir": "left"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 60,
+          "start-x": -85,
+          "start-y": 45,
+          "start-dir": "down"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 60,
+          "start-x": 120,
+          "start-y": 15,
+          "start-dir": "right"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 60,
+          "start-x": 65,
+          "start-y": 45,
+          "start-dir": "down"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "up down",
+          "range": 60,
+          "start-x": 65,
+          "start-y": 45,
+          "start-dir": "down"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 60,
+          "start-x": 230,
+          "start-y": 150,
+          "start-dir": "right"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      },
+      {
+        "data": {
+          "size": 25,
+          "speed": 5,
+          "move-style": "side to side",
+          "range": 60,
+          "start-x": 290,
+          "start-y": 80,
+          "start-dir": "left"
+        },
+        "display": {
+          "color": [0, 0, 255],
+          "inner-square-shade": 80
+        }
+      }
+    ],
+    "walls": [
+      {
+        "x": -320,
+        "y": 240,
+        "width": 640,
+        "height": 8,
+        "color": [1, 50, 32],
+        "inner-square-shade": 30
+      },
+      {
+        "x": -320,
+        "y": 240,
+        "width": 8,
+        "height": 480,
+        "color": [1, 50, 32],
+        "inner-square-shade": 30
+      },
+      {
+        "x": -320,
+        "y": -232,
+        "width": 640,
+        "height": 8,
+        "color": [1, 50, 32],
+        "inner-square-shade": 30
+      },
+      {
+        "x": 312,
+        "y": 240,
+        "width": 8,
+        "height": 480,
+        "color": [1, 50, 32],
+        "inner-square-shade": 30
+      },
+      {
+        "x": -240,
+        "y": 170,
+        "width": 480,
+        "height": 120,
+        "color": [1, 50, 32],
+        "inner-square-shade": 30
+      },
+      {
+        "x": -320,
+        "y": -40,
+        "width": 640,
+        "height": 200,
+        "color": [1, 50, 32],
+        "inner-square-shade": 30
+      }
+    ]
+  }
+]
