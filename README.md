@@ -20,7 +20,7 @@ folder.
 FHG reads levels from a JSON object (or a dictonary, in Python's
 case). Here is an example of the first level:
 
-```
+```json
 {
     "player": {
       "start-x": -300,
@@ -65,14 +65,6 @@ case). Here is an example of the first level:
     "walls": [
       {
         "x": -320,
-        "y": 240,
-        "width": 640,
-        "height": 145,
-        "color": [1, 50, 32],
-        "inner-square-shade": 30
-      },
-      {
-        "x": -320,
         "y": -95,
         "width": 640,
         "height": 145,
@@ -90,14 +82,14 @@ This object defines the player's data; more specifically, where the
 player will start when the level is loaded.
 
 ### `portal`
-Same as the `player`.
+Same as `player`.
 
 ### `projectiles`
 This is an array of objects, each one being a single projectile.
 
 A projectile looks like this:
 
-```
+```json
 {
   "data": {
     "size": 32,
@@ -118,7 +110,24 @@ A projectile looks like this:
 The `data` key is used to define how the projectile behaves. Most of it
 is self explanatory, but there are a few that may need some explaining.
 `start-dir` defines what direction the projectile will start moving, and
-`move-style` is used how the projectile moves.
+`move-style` is used for how the projectile moves.
 
 (There is an unused `"diagonal"` type, but fully works. Use that if
 you wish to do so.)
+
+`display` doesn't have very much to it... just a color and a shade.
+`display/color` is an array, and if you notice, there are three
+numbers, signifying that it is in RGB value. In the example above,
+it is the color blue.
+
+For more directions, look in the `main.py` file and it's variables
+for more info.
+
+### `walls`
+`walls` (similar to `projectiles`), consists of an array of objects.
+
+Here is a wall:
+
+```json
+
+```
